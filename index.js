@@ -24,7 +24,3 @@ app.use("/", require("./routes/crypto"));
 app.listen(process.env.PORT, () => {
   console.log(`Servidor corriendo en puerto ${process.env.PORT}`);
 });
-
-//3ADlBBJrkLS3HoDf
-
-//mongodb+srv://admin:<password>@cluster0.am1ax.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
